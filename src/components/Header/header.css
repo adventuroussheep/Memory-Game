@@ -1,0 +1,16 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0%;
+}
+
+h5 {
+    color: whitesmoke;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    text-align: center;
+    background-color: white;
+}
+

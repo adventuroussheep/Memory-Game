@@ -1,0 +1,16 @@
+.imgClass {
+    width: 150px;
+    height: 150px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.tileWrapper{
+    width: 160px;
+}
+
+.tileDiv {
+    width: 100%;
+}
