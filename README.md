@@ -1,4 +1,4 @@
-## Memory Test
+# Memory Test
 
 Test your memory in this King of the Hill inspired game. If you click on the same image more than once you lose! Try to select all the images but only once.
 
@@ -9,4 +9,4 @@ You may also start the project using NPM start
 
 
 ## Tech
-This project uses Bootstrap.css and React.js.
+Bootstrap.css, React.js
