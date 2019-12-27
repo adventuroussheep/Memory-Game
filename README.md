@@ -3,7 +3,7 @@
 ## Overview
 Memory Test is a React.js and Bootstrap game. The goal of the game is to select all images you have not already selected. This game deals with React State and passing down json props to a React component.
 
-![Memory Background](./src/assets/memoryGame.jpg)
+![Memory Background](/src/assets/memoryGame.jpg)
 
 
 
